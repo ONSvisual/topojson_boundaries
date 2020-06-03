@@ -5,9 +5,7 @@ These were created for use with ONSVisuals map visualtions. Below is a descripti
 #### [LSOA.json](https://github.com/ONSvisual/topojson_boundaries/blob/master/LSOA.json)
 
 - Name: The Lower Super Output Area 
-
 - Desc: Lower Layer Super Output Areas are a geographic hierarchy designed to improve the reporting of small area statistics in England and Wales
-
 - Raw data: [ONS Open Geography Portal](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LSOA))
 
 #### [MSOA.json](https://github.com/ONSvisual/topojson_boundaries/blob/master/MSOA.json)
