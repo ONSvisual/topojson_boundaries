@@ -94,8 +94,8 @@ These were created for use with ONSVisuals map visualtions. Below is a descripti
 - Raw data: [ONS Open Geography Portal](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD))
 <br><br>
 
-#### [geogtownandcitiesEW.json](https://github.com/ONSvisual/topojson_boundaries/blob/master/geogtownandcitiesEW.json)
+#### [geogtownandcitiesEW.json](https://github.com/ONSvisual/topojson_boundaries/blob/master/geogtownandcitiesEW.json)/[geogtownscitiesGB.json](https://github.com/ONSvisual/topojson_boundaries/blob/master/geogtownscitiesGB.json)
 
 - Name: Built up Area and Built up Area Sub-Divisions 
-- Desc: Built up Area and Built up Area Sub-Divisions for England and Wales. This comprises towns and cities within England and Wales
+- Desc: Built up Area and Built up Area Sub-Divisions for England and Wales/Great Britain . This comprises towns and cities within England and Wales/Great Britain
 - Raw data: [ONS Open Geography Portal](https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_BUA%2CDEC_2011))
